@@ -1,0 +1,7 @@
+# Tested compatibility target: Windows 10/11, Python 3.11 64-bit
+numpy>=1.26,<2
+opencv-contrib-python==4.11.0.86
+scikit-learn>=1.5,<2
+joblib>=1.4,<2
+PySide6>=6.8,<7
+mediapipe==0.10.21

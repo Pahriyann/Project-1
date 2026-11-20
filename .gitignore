@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+models/*.joblib
+models/hand_landmarker.task
+models/face_landmarker.task
+models/*.download

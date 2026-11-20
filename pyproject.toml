@@ -1,0 +1,12 @@
+[project]
+name = "teachablemachinepython"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "joblib>=1.4,<2",
+    "mediapipe==0.10.21",
+    "numpy>=1.26,<2",
+    "opencv-contrib-python==4.11.0.86",
+    "pyside6>=6.8,<7",
+    "scikit-learn>=1.5,<2",
+]
